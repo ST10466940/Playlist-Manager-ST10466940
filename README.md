@@ -51,6 +51,10 @@ https://github.com/ST10466940/Playlist-Manager-ST10466940/tree/main
 3. Link different payment methods i.e. Bitcoin, Debit/Credit card, Paypal, Vouchers, etc
 4. Add Advertisements for free users 
 
+Images:
+
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/4433a244-8ce1-4e73-8999-decfed6a3839" />
+
 ![image](https://github.com/user-attachments/assets/df97ac73-a346-4206-b714-5bcd2e6b7f78)
 ![image](https://github.com/user-attachments/assets/4ec2072d-2bc6-4130-ac46-51d8df8aff9e)
 ![image](https://github.com/user-attachments/assets/a57c2d80-008f-4b79-8538-03eb7775a340)
