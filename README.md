@@ -22,7 +22,7 @@ https://github.com/ST10466940/Playlist-Manager-ST10466940/tree/main
    - Responsive design
 
 3. **Visual Design**:
-   - Purple color theme for a friendly appearance
+   - Design friendly colour UI theme
    - Rounded corners for modern look
    - Clear typography hierarchy
 
